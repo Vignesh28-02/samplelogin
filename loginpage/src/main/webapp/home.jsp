@@ -9,11 +9,8 @@
 <body>
 	
 	<form action="/login" method="post">
-		<table style="background-color:orange; padding:5px">
-		<tr>
-		<td><h3>Login Page</h3></td>
-		<td></td>
-		</tr>
+		<table style="background-color:aqua; padding:5px">
+		
 		<tr>
 		<td>UserName:</td><td><input type="text" name="uname"></td>
 		</tr>
